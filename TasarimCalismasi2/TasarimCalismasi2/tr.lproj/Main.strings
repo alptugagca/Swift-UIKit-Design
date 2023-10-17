@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Quality clothes come from Turkey. All products are new."; ObjectID = "41f-Rd-cKv"; */
+"41f-Rd-cKv.text" = "Kaliteli kıyafetler Türkiyeden gelmektedir. Tüm ürünler yenidir.";
+
+/* Class = "UIButton"; configuration.title = "XL"; ObjectID = "47v-72-9pw"; */
+"47v-72-9pw.configuration.title" = "XL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "47v-72-9pw"; */
+"47v-72-9pw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$299"; ObjectID = "Agy-dT-vgO"; */
+"Agy-dT-vgO.text" = "10,599 ₺";
+
+/* Class = "UILabel"; text = "Select Size"; ObjectID = "EVk-b1-bLr"; */
+"EVk-b1-bLr.text" = "Beden Seç";
+
+/* Class = "UIButton"; configuration.title = "M"; ObjectID = "H4q-Da-sSL"; */
+"H4q-Da-sSL.configuration.title" = "M";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "H4q-Da-sSL"; */
+"H4q-Da-sSL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Kemejaan Short"; ObjectID = "LFq-t7-nRu"; */
+"LFq-t7-nRu.text" = "Kapri Gömlek";
+
+/* Class = "UIButton"; configuration.title = "L"; ObjectID = "T3E-J6-hBF"; */
+"T3E-J6-hBF.configuration.title" = "L";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T3E-J6-hBF"; */
+"T3E-J6-hBF.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add to Card"; ObjectID = "h0r-sh-oGs"; */
+"h0r-sh-oGs.configuration.title" = "Sepete Ekle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h0r-sh-oGs"; */
+"h0r-sh-oGs.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "S"; ObjectID = "lIz-Mh-aFf"; */
+"lIz-Mh-aFf.configuration.title" = "S";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lIz-Mh-aFf"; */
+"lIz-Mh-aFf.normalTitle" = "Button";
